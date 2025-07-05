@@ -27,21 +27,16 @@
       ▪ Research Volunteer in Business Analytics: Modeled loyalty program reward systems for stochastic simulation<br>
       ▪ Virtual Software Engineer @ 65square: Real-time facial verification using MediaPipe, optimized API endpoints
     </li><br>
-
     <li><b>Research Technician II</b> — Washington University in St. Louis <i>(May 2021 – May 2023)</i><br>
       ▪ Built BIDS-compliant pipelines for multimodal MRI/PET preprocessing in MS & CSVD<br>
       ▪ Integrated MTR as clinical biomarker; improved lesion tracking with U-Net + VAE inference<br>
       ▪ Harmonized dMRI across scanners with ComBat / GAN / DDPM; reduced FA/MD variance<br>
       ▪ Correlated imaging features with clinical disability progression and cognitive decline
     </li><br>
-
     <li><b>MS in Neuroimaging and Informatics</b> — University of Southern California <i>(Aug 2019 – May 2020)</i><br>
       ▪ FreeSurfer cortical QC via LGBM / Random Forest classifiers on aging cohort data<br>
       ▪ Migrated CycleGAN and DCGAN for lesion-focused contrast synthesis
     </li><br>
-
-    <li><b>BS in Mathematical Analytics & Operations Research</b>, <b>BS in Statistics</b> — UC Davis <i>(Sep 2017 – Jun 2019)</i></li><br>
-    <li><b>Mathematics Major (Actuarial Science)</b>, <i>Minors in Computer Science and Economics</i> — University of Connecticut <i>(Aug 2015 – May 2017)</i></li>
   </ul>
 </p>
 
