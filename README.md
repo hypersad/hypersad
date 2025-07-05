@@ -35,13 +35,6 @@
   </ul>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/michael-li-96767a1b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="https://github.com/hypersad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="30" /></a>
-  <a href="mailto:mzcli@outlook.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" alt="email" height="30" width="30" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hypersad&show_icons=true&locale=en&layout=compact" alt="hypersad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hypersad&show_icons=true&locale=en" alt="hypersad" /></p>
