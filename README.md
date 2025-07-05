@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael Li</h1>
+<h1 align="center">Hi 👋, I'm Mzc Li</h1>
 <h3 align="center">A frontend developer and a machine learning engineer from USC and Washington University</h3>
 
 <p align="left"> 
