@@ -11,12 +11,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 🤝 I’m looking for help with 
-- 📝 I regularly write articles on 
-- 💬 Ask me about **Python and Machine Learning**
+- 🔭 I’m currently working on **Python and Machine Learning**
 - 📫 How to reach me **mzcli@outlook.com**
 
 <h3 align="left">🎓 Education & Research Experience</h3>
