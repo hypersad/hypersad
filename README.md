@@ -11,8 +11,8 @@
 
 <h3 align="left">💻 Featured Projects for AI Plugins</h3>
 
-### ![React + Google Maps API](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) ![Google Cloud](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)
 ### Travel Review Website
+![React + Google Maps API](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) ![Google Cloud](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)
 A full-stack web platform for sharing and discovering travel experiences. Users can post reviews, upload photos to Google Cloud Storage, and explore destinations via Google Maps embeds.
 
 - **Technologies**: React.js, Node.js, Express, Google Cloud Storage, Google Maps API, JavaScript
@@ -20,8 +20,8 @@ A full-stack web platform for sharing and discovering travel experiences. Users 
 - [View on GitHub](https://github.com/fdsafewa/Travel_Review_Website)
 
 
-### ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
 ### DNDT (Deep Neural Decision Trees) – JAX Implementation
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
 A **JAX-native reimplementation** of the interpretable Deep Neural Decision Tree (DNDT) model from the 2018 ICML WHI paper. Enables fully differentiable decision trees with soft binning and Kronecker routing, optimized end-to-end via gradient descent. Supports GPU/TPU acceleration and JIT compilation.
 
 - **Technologies**: JAX, Flax, Optax, NumPy
@@ -29,8 +29,8 @@ A **JAX-native reimplementation** of the interpretable Deep Neural Decision Tree
 - [View on GitHub](https://github.com/hypersad/DNDT)
 
 
-### ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
 ### Grok Auto-Scroll Fix
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
 A lightweight Tampermonkey userscript that automatically scrolls to the bottom of Grok chat pages, fixing issues on legacy Chrome/Edge browsers. Uses MutationObserver for real-time updates and smooth scrolling for better UX.
 
 - **Technologies**: JavaScript, Tampermonkey, MutationObserver
@@ -38,8 +38,8 @@ A lightweight Tampermonkey userscript that automatically scrolls to the bottom o
 - [View on GitHub](https://github.com/hypersad/grok-auto-scroll-fix) | [Install Script](https://github.com/hypersad/grok-auto-scroll-fix/raw/main/grok-auto-scroll-fix.user.js)
 
 
-### ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
 ### Remove ChatGPT Voice Button
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
 A simple userscript to permanently remove the unwanted voice/speaker button from ChatGPT's interface. Employs DOM observation to block it even after page updates, keeping your chat clean and focused.
 
 - **Technologies**: JavaScript, Tampermonkey/Violentmonkey
@@ -47,8 +47,8 @@ A simple userscript to permanently remove the unwanted voice/speaker button from
 - [View on GitHub](https://github.com/hypersad/remove-chatgpt-voice-button) | [Install Script](https://raw.githubusercontent.com/hypersad/remove-chatgpt-voice-button/main/remove-chatgpt-voice-button.js)
 
 
-### ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
 ### Ollama-Voice-MacOS-High-Sierra
+![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg) ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
 A Bash script enabling local AI queries with text-to-speech on deprecated macOS versions (10.12–12). Runs Ollama in a Multipass Ubuntu VM, supports compact models, and uses the `say` command for audio output.
 
 - **Technologies**: Bash, Ollama, Multipass, jq, Perl
