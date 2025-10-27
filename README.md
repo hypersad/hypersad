@@ -14,11 +14,35 @@
 ### Travel Review Website
 A full-stack web platform for sharing and discovering travel experiences. Users can post reviews, upload photos to Google Cloud Storage, and explore destinations via Google Maps embeds.
 
-![Travel Review Website](https://github.com/fdsafewa/Travel_Review_Website/raw/main/screenshot.png?raw=true)
+![Travel Review Website](https://github.com/fdsafewa/Travel_Review_Website)
 
-- **Technologies**: Node.js, Express, Google Cloud Storage, Google Maps API, JavaScript
+- **Technologies**: React.js, Node.js, Express, Google Cloud Storage, Google Maps API, JavaScript
 - **Key Features**: Image upload to GCS, environment-based config, responsive UI
 - [View on GitHub](https://github.com/fdsafewa/Travel_Review_Website)
+
+
+### DNDT (Deep Neural Decision Trees) – JAX Implementation
+A **JAX-native reimplementation** of the interpretable Deep Neural Decision Tree (DNDT) model from the 2018 ICML WHI paper. Enables fully differentiable decision trees with soft binning and Kronecker routing, optimized end-to-end via gradient descent. Supports GPU/TPU acceleration and JIT compilation.
+
+- **Technologies**: JAX, Flax, Optax, NumPy
+- **Key Features**: Soft binning function, Kronecker product routing, self-pruning, multi-way splits, pure functional design
+- [View on GitHub](https://github.com/hypersad/DNDT)
+
+
+### Ollama-Voice-MacOS-High-Sierra
+
+A Bash script enabling local AI queries with text-to-speech on deprecated macOS versions (10.12–12). Runs Ollama in a Multipass Ubuntu VM, supports compact models, and uses the `say` command for audio output.
+
+[](https://github.com/hypersad/Ollama-Voice-MacOS-High-Sierra)
+
+- **Technologies**: Bash, Ollama, Multipass, jq, Perl
+- **Key Features**: VM-based AI for old Macs, auto-cleans responses, voice customization
+- [View on GitHub](https://github.com/hypersad/Ollama-Voice-MacOS-High-Sierra) | [Download Script
+      ▪ FreeSurfer cortical QC via LGBM / Random Forest classifiers on aging cohort data<br>
+      ▪ Migrated CycleGAN and DCGAN for lesion-focused contrast synthesis
+    </li><br>
+  </ul>
+</p>
 
 ### Grok Auto-Scroll Fix
 
@@ -39,18 +63,3 @@ A simple userscript to permanently remove the unwanted voice/speaker button from
 - **Technologies**: JavaScript, Tampermonkey/Violentmonkey
 - **Key Features**: Instant removal, persistent blocking, cross-browser support
 - [View on GitHub](https://github.com/hypersad/remove-chatgpt-voice-button) | [Install Script](https://raw.githubusercontent.com/hypersad/remove-chatgpt-voice-button/main/remove-chatgpt-voice-button.js)
-
-### Ollama-Voice-MacOS-High-Sierra
-
-A Bash script enabling local AI queries with text-to-speech on deprecated macOS versions (10.12–12). Runs Ollama in a Multipass Ubuntu VM, supports compact models, and uses the `say` command for audio output.
-
-[](https://github.com/hypersad/Ollama-Voice-MacOS-High-Sierra)
-
-- **Technologies**: Bash, Ollama, Multipass, jq, Perl
-- **Key Features**: VM-based AI for old Macs, auto-cleans responses, voice customization
-- [View on GitHub](https://github.com/hypersad/Ollama-Voice-MacOS-High-Sierra) | [Download Script
-      ▪ FreeSurfer cortical QC via LGBM / Random Forest classifiers on aging cohort data<br>
-      ▪ Migrated CycleGAN and DCGAN for lesion-focused contrast synthesis
-    </li><br>
-  </ul>
-</p>
