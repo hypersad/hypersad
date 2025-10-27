@@ -11,6 +11,15 @@
 
 <h3 align="left">💻 Featured Projects for AI Plugins</h3>
 
+### Travel Review Website
+A full-stack web platform for sharing and discovering travel experiences. Users can post reviews, upload photos to Google Cloud Storage, and explore destinations via Google Maps embeds.
+
+![Travel Review Website](https://github.com/fdsafewa/Travel_Review_Website/raw/main/screenshot.png?raw=true)
+
+- **Technologies**: Node.js, Express, Google Cloud Storage, Google Maps API, JavaScript
+- **Key Features**: Image upload to GCS, environment-based config, responsive UI
+- [View on GitHub](https://github.com/fdsafewa/Travel_Review_Website)
+
 ### Grok Auto-Scroll Fix
 
 A lightweight Tampermonkey userscript that automatically scrolls to the bottom of Grok chat pages, fixing issues on legacy Chrome/Edge browsers. Uses MutationObserver for real-time updates and smooth scrolling for better UX.
