@@ -14,8 +14,6 @@
 ### Travel Review Website
 A full-stack web platform for sharing and discovering travel experiences. Users can post reviews, upload photos to Google Cloud Storage, and explore destinations via Google Maps embeds.
 
-![Travel Review Website](https://github.com/fdsafewa/Travel_Review_Website)
-
 - **Technologies**: React.js, Node.js, Express, Google Cloud Storage, Google Maps API, JavaScript
 - **Key Features**: Image upload to GCS, environment-based config, responsive UI
 - [View on GitHub](https://github.com/fdsafewa/Travel_Review_Website)
