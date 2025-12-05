@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Li</h1>
 
-- 🔭 I’m currently a **Volunteer** at **BC Children’s and BC Women's Hospital** (2025-)
 - 💻 I’m working on **Machine Learning** and **Front-End Development**
 - 📫 How to reach me **mzcli@outlook.com**
 
