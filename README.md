@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Michael Li</h1>
-
 - 💻 I’m working on **Machine Learning** and **Front-End Development**
 - 📫 How to reach me **mzcli@outlook.com**
 
